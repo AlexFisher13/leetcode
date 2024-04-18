@@ -1,4 +1,4 @@
-package top_interview_150;
+package top_interview_150.two_pointers;
 
 /**
  * EASY
