@@ -1,9 +1,7 @@
 package top_interview_150;
 /**
  * EASY
- *
  * https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/?envType=study-plan-v2&envId=top-interview-150
- *
  * Возьмем первое цену как минимальную цену покупки.
  * Будем пробегать по всем ценам.
  * Оносительно каждой новой цены вычислять потенциальный профит. И если он больше предыдущего профита, то обновлять его.

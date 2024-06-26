@@ -4,9 +4,7 @@ import java.util.Map;
 
 /**
  * EASY
- *
  * https://leetcode.com/problems/roman-to-integer/submissions/1236456719/?envType=study-plan-v2&envId=top-interview-150
- *
  * Создаем маппинг для римских цифр.
  * Пробегаемся по всем символами в римской цифре и
  * если следующий символ меньше по значению то прибавляем его,
